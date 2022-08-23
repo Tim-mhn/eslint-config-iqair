@@ -1,0 +1,19 @@
+{
+  "name": "@tim-mhn/eslint-config-iqair",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Tim-mhn/eslint-config-iqair.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Tim-mhn/eslint-config-iqair/issues"
+  },
+  "homepage": "https://github.com/Tim-mhn/eslint-config-iqair#readme"
+}
